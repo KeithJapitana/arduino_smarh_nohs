@@ -1,0 +1,5 @@
+C:\Users\KeithJasper\Desktop\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.AboutBox1.resources
+C:\Users\KeithJasper\Desktop\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.MainForm.resources
+C:\Users\KeithJasper\Desktop\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.Properties.Resources.resources
+C:\Users\KeithJasper\Desktop\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csproj.GenerateResource.Cache
+C:\Users\KeithJasper\Desktop\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe.config
